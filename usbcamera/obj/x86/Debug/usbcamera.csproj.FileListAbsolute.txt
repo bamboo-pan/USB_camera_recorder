@@ -1,0 +1,57 @@
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\usbcamera.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\usbcamera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\usbcamera.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\AForge.dll
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.DirectShow.dll
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.dll
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.FFMPEG.dll
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.VFW.dll
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\x86\Debug\usbcamera.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\x86\Debug\usbcamera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\usbcamera.exe.config
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.exe
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\usbcamera.exe
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\AForge.dll
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.dll
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.VFW.dll
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Form1.resources
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\code\c#\AForge.Video.FFMPEG\usbcamera\usbcamera\obj\x86\Debug\usbcamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\code\c#\usbcamera\usbcamera\bin\x86\Debug\usbcamera.exe.config
+C:\Users\Administrator\OneDrive\code\c#\usbcamera\usbcamera\obj\x86\Debug\usbcamera.exe
+C:\Users\Administrator\OneDrive\code\c#\usbcamera\usbcamera\obj\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\AForge.dll
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Form1.resources
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\usbcamera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\usbcamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\usbcamera.exe.config
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\usbcamera.exe
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\AForge.dll
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\bin\x86\Debug\AForge.Video.VFW.dll
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.Form1.resources
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.exe
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.pdb
+C:\Users\Administrator\Desktop\usbcamera1\usbcamera\obj\x86\Debug\usbcamera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\usbcamera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\bamboo_record.exe.config
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\x86\Debug\bamboo_record.pdb
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\x86\Debug\bamboo_record.pdb

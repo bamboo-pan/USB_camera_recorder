@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\Debug\usbcamera.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\Debug\usbcamera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\bin\Debug\usbcamera.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\usbcamera\usbcamera\obj\Debug\usbcamera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\Debug\bamboo_record.exe.config
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\bin\Debug\bamboo_record.pdb
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\usbcamera.Form1.resources
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\usbcamera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\usbcamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\bamboo_record.pdb
+C:\Users\Administrator\Desktop\usbcamera\usbcamera\obj\Debug\usbcamera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\bin\Debug\bamboo_record.exe.config
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\bin\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\bin\Debug\bamboo_record.pdb
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\obj\Debug\usbcamera.Form1.resources
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\obj\Debug\usbcamera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\obj\Debug\usbcamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\obj\Debug\bamboo_record.exe
+C:\Users\Administrator\Desktop\usb_reord\usbcamera\obj\Debug\bamboo_record.pdb
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\bin\Debug\bamboo_record.exe.config
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\bin\Debug\bamboo_record.exe
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\bin\Debug\bamboo_record.pdb
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\usbcamera.csprojResolveAssemblyReference.cache
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\usbcamera.Form1.resources
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\usbcamera.Properties.Resources.resources
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\usbcamera.csproj.GenerateResource.cache
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\usbcamera.csproj.CoreCompileInputs.cache
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\bamboo_record.exe
+E:\OneDrive\language_store\c#\project\usb_reord\usbcamera\obj\Debug\bamboo_record.pdb
